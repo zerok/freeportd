@@ -1,0 +1,7 @@
+image: golang:1.8.3
+
+build:
+  script:
+    - mkdir -p /go/src/gitlab.com/zerok
+    - ln -s /builds/zerok/freeportd /go/src/gitlab.com/zerok/freeportd
+    - cd /go/src/gitlab.com/zerok/freeportd && make

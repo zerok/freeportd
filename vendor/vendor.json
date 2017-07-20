@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "ilgjB/nf5ZyqJATerDDn0DD2qP0=",
+			"path": "github.com/bluele/gcache",
+			"revision": "04d92e137110a022a213a7919825272072df2823",
+			"revisionTime": "2017-07-15T01:33:14Z"
+		},
+		{
+			"checksumSHA1": "lpLPku3Jj2lwjDNCDSzPq6fqEuU=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "5b60b3d3ee017ed00bcd0225fcca7acab767844b",
+			"revisionTime": "2017-05-04T07:10:19Z"
+		},
+		{
+			"checksumSHA1": "STxYqRb4gnlSr3mRpT+Igfdz/kM=",
+			"path": "github.com/spf13/pflag",
+			"revision": "e57e3eeb33f795204c1ca35f56c44f83227c6e66",
+			"revisionTime": "2017-05-08T18:43:26Z"
+		}
+	],
+	"rootPath": "gitlab.com/zerok/freeportd"
+}
