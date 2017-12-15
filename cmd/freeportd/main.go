@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"gitlab.com/zerok/freeportd"
+	"github.com/zerok/freeportd"
 
 	"github.com/bluele/gcache"
 	log "github.com/sirupsen/logrus"
